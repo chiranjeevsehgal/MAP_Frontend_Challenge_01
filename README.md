@@ -13,3 +13,8 @@ A simple horizontal scrollable list of card components.
 
 - npm install
 - npm run dev
+
+## Screenshots
+
+![Home Page](assets/Dashboard.png)
+![Card](Card.png)
