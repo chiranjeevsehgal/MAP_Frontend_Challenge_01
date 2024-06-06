@@ -1,8 +1,15 @@
-# React + Vite
+# Project MAP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple horizontal scrollable list of card components.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js**: A JavaScript library for building user interfaces.
+- **Vite**: A build tool that provides a fast development environment.
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces.
+- **Lucide Icons**: A collection of beautifully simple, customizable icons.
+
+## To Run
+
+- npm install
+- npm run dev
