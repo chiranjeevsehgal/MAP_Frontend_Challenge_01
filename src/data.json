@@ -1,0 +1,142 @@
+[
+  {
+    "imageUrl": "SampleImages/SamplePic01.jpg",
+    "type": "recommended",
+    "title": "Wooden House, Florida",
+    "rating": 5.0,
+    "description": "Enter a freshly updated and thoughtfully furnished peaceful home surrounded by ancient trees, stone walls, and open meadows."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic02.jpg",
+    "type": "ads",
+    "title": "Beachside Villa, Hawaii",
+    "rating": 4.8,
+    "description": "Relax in this luxurious beachside villa with breathtaking ocean views and direct access to a private beach."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic03.jpg",
+    "type": "trending",
+    "title": "Mountain Cabin, Colorado",
+    "rating": 4.9,
+    "description": "Escape to this cozy mountain cabin nestled in the heart of the Rocky Mountains, surrounded by stunning natural beauty."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic04.jpg",
+    "type": "recommended",
+    "title": "City Loft, New York",
+    "rating": 4.7,
+    "description": "Experience the vibrant energy of New York City from this modern loft with floor-to-ceiling windows and a rooftop terrace."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic05.jpg",
+    "type": "ads",
+    "title": "Countryside Farmhouse, Italy",
+    "rating": 5.0,
+    "description": "Immerse yourself in the charm of the Italian countryside at this beautifully renovated farmhouse with a private vineyard."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic06.jpg",
+    "type": "trending",
+    "title": "Lakefront Cottage, Canada",
+    "rating": 4.6,
+    "description": "Escape to this serene lakefront cottage in the heart of the Canadian wilderness, perfect for fishing, hiking, and reconnecting with nature."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic07.jpg",
+    "type": "recommended",
+    "title": "Tropical Villa, Bali",
+    "rating": 4.9,
+    "description": "Experience the ultimate tropical paradise in this luxurious villa with a private pool, lush gardens, and stunning views of the ocean."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic08.jpg",
+    "type": "ads",
+    "title": "Desert Oasis, Morocco",
+    "rating": 4.7,
+    "description": "Escape the hustle and bustle of city life at this tranquil desert oasis, complete with traditional Moroccan decor and stunning desert landscapes."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic09.jpg",
+    "type": "trending",
+    "title": "Historic Chateau, France",
+    "rating": 5.0,
+    "description": "Step back in time and experience the grandeur of a historic French chateau, complete with stunning gardens and impeccable service."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic10.jpg",
+    "type": "recommended",
+    "title": "Seaside Cottage, Greece",
+    "rating": 4.8,
+    "description": "Enjoy the laid-back lifestyle of the Greek islands in this charming seaside cottage with a private terrace overlooking the Aegean Sea."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic11.jpg",
+    "type": "ads",
+    "title": "Urban Penthouse, Singapore",
+    "rating": 4.9,
+    "description": "Experience the height of luxury in this modern penthouse with panoramic city views and top-of-the-line amenities."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic12.jpg",
+    "type": "trending",
+    "title": "Jungle Treehouse, Costa Rica",
+    "rating": 4.7,
+    "description": "Immerse yourself in the lush Costa Rican jungle from this unique treehouse, complete with a private deck and stunning views of the canopy."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic13.jpg",
+    "type": "recommended",
+    "title": "Rustic Cabin, Alaska",
+    "rating": 4.8,
+    "description": "Escape the crowds and connect with nature in this rustic cabin nestled in the Alaskan wilderness, perfect for hunting, fishing, and outdoor adventures."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic14.jpg",
+    "type": "ads",
+    "title": "City Apartment, Tokyo",
+    "rating": 4.6,
+    "description": "Experience the vibrant energy of Tokyo from this modern city apartment, conveniently located near top attractions and public transportation."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic15.jpg",
+    "type": "trending",
+    "title": "Ski Chalet, Switzerland",
+    "rating": 5.0,
+    "description": "Enjoy the ultimate ski vacation in this luxurious chalet with direct access to the slopes and stunning mountain views."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic16.jpg",
+    "type": "recommended",
+    "title": "Beach Bungalow, Fiji",
+    "rating": 4.7,
+    "description": "Escape to this idyllic beach bungalow in Fiji, complete with a private beach, crystal-clear waters, and a laid-back island vibe."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic17.jpg",
+    "type": "ads",
+    "title": "Countryside Manor, England",
+    "rating": 4.9,
+    "description": "Experience the quintessential English countryside at this beautifully restored manor house with immaculate gardens and elegant interiors."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic18.jpg",
+    "type": "trending",
+    "title": "Safari Lodge, South Africa",
+    "rating": 4.8,
+    "description": "Immerse yourself in the African wilderness at this luxurious safari lodge, complete with stunning views of the savanna and guided wildlife tours."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic19.jpg",
+    "type": "recommended",
+    "title": "Eco-Friendly Retreat, Australia",
+    "rating": 4.9,
+    "description": "Reconnect with nature at this eco-friendly retreat in the Australian outback, featuring sustainable design and breathtaking natural surroundings."
+  },
+  {
+    "imageUrl": "SampleImages/SamplePic20.jpg",
+    "type": "ads",
+    "title": "Historic Townhouse, Spain",
+    "rating": 4.7,
+    "description": "Step back in time and experience the charm of a historic Spanish townhouse, complete with traditional decor and a central courtyard."
+  }
+]
