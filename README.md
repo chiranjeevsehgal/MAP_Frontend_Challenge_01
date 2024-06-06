@@ -16,5 +16,5 @@ A simple horizontal scrollable list of card components.
 
 ## Screenshots
 
-![Home Page](assets/Dashboard.png)
-![Card](Card.png)
+![Home Page](public/Dashboard.png)
+![Card](public/Card.png)
