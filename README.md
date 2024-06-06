@@ -1,7 +1,5 @@
 # Project MAP
 
-# Cards Carousel
-
 A simple horizontal scrollable list of card components.
 
 ## Technologies Used
